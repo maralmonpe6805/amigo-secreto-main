@@ -1,6 +1,6 @@
 <h1> Amigo Secreto</h1>
 
-- Estado del Proyecto: En construución.
+- Estado del Proyecto: Terminado.
 
 - Aplicación web que pone en práctica el Curso Lógica de Programación de Alura Latam, Oracle, del grupo ONE8, con el reto del Challenge del amigo secreto, que permite adquirir habilidades de programación.
 
